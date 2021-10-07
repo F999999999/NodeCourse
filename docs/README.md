@@ -4,7 +4,7 @@ title: Home
 heroImage: /images/node.png
 actions:
   - text: 快速上手 →
-    link: /guide/
+    link: /guide/01-简介.md
     type: primary
   - text: 仓库简介
     link: /guide/
